@@ -1,0 +1,25 @@
+.header{
+    width: 100vw;
+    height: 7rem;
+    background-color: white;
+    position: fixed;
+    z-index: 1;
+    left: 0;
+    top: 0;
+    background-color: var(--secondary-grey);
+}   
+
+.header__title{
+    padding: 2rem;
+    min-width: 10rem;
+    font-size: 2rem;
+    text-align: left;
+    color: #000;
+    font-weight: bold;
+}
+
+.header__image {
+    width: 50px;
+    display: inline-block;
+    margin-right: 10px;
+}

@@ -1,0 +1,19 @@
+.card__picture {
+    height: 280px;
+}
+
+.card__details {
+    margin: 1rem;
+}
+
+.card__details-name {
+    font-size: 2rem;
+    font-weight: bold;
+    line-height: 3rem;
+}
+
+.card__details-gender,
+.card__details-job {
+    color: #777;
+    font-style: italic;
+}

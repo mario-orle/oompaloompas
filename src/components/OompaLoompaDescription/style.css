@@ -1,0 +1,16 @@
+.description{
+    line-height: 2;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 2rem;
+}
+
+.description__name{
+    font-size: 3rem;
+    line-height: 3rem;
+}
+
+.description__profession{
+    font-style: italic;
+}
